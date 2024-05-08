@@ -1,6 +1,6 @@
 # Customer-Segmentation-and-Customer-Churn
 
-### Unveiling Business Growth through Customer Segmentation: Leveraging RFM Model
+#### Unveiling Business Growth through Customer Segmentation: Leveraging RFM Model
 
 Delving into the intricacies of customer segmentation through the RFM (Recency, Frequency, Monetary) model presents an exciting opportunity to drive business growth. By meticulously analyzing purchasing behavior, we unearth VIP customers whose patronage plays a pivotal role in propelling organizational success. Let us embark on this analytical journey with precision and purpose.
 
@@ -27,7 +27,3 @@ Central to our analytical endeavor is the RFM model, where we compute recency, f
 #### Data-Driven Decision-Making: Culminating in RFM Table
 
 Our analytical odyssey culminates in the RFM table, a testament to the efficacy of data-driven decision-making. Armed with insights into VIP clientele, tailored marketing strategies and bespoke services await deployment, promising to elevate business revenue and foster sustainable growth.
-
----
-
-This narrative encapsulates our commitment to leveraging data analytics for strategic advantage, underscoring our unwavering dedication to driving organizational success through informed decision-making.
